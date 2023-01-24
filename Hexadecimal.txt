@@ -1,0 +1,27 @@
+Tipos de códigos
+
+a,b,c,d...
+0,1,2,3,4,5,6,7,8,9,10...
+0,1
+
+Hexadecimal
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+0 menos intencidad de color, F color más intenso
+
+El negro será 000000 (seis ceros)
+
+El blanco será de FFFFFF (seis f)
+
+Seis posiciones
+_ _ _ _ _ _
+
+r r g g b b
+
+rgb
+
+0= menor
+255= mayor
+
+negro: rgb(0,0,0)
+
